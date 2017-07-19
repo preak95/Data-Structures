@@ -1,4 +1,6 @@
 # depslib dependency file v1.0
-1495294099 source:e:\data structures\binary tree\main.cpp
+1495464641 source:e:\data structures\binary tree\main.cpp
 	<iostream>
+	<math.h>
+	<queue>
 
