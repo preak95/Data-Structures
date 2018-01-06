@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501866101 source:e:\data structures\sotest\main.cpp
+	<iostream>
+	<vector>
+

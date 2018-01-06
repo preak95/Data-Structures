@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1504300950 source:e:\data structures\sorting algorithms\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+
